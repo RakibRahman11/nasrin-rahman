@@ -1,6 +1,7 @@
     body{
         font-family: 'Prompt', sans-serif;
         text-align: justify;
+        background-color: burlywood;
     }
     .word-color-change{
         color: orangered;
