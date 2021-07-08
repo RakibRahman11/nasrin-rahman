@@ -17,6 +17,12 @@
             height: 210px;
             width: 205px;
         }
+        #logo{
+            display: block;
+            align-content: flex-end;
+            height: 210px;
+            width: 205px;
+        }
         #first-part{
             display: flex;
             background-color: rgba(241, 241, 241, 0.692);
@@ -73,10 +79,11 @@
             box-shadow: 5px 8px 5px 8px rgba(233, 229, 233, 0.842);
             margin-top: 150px;
             margin-bottom: 50px;
+            width: 50%;
         }
         .social{
+            display: block;
             height: 60px;
             width: 60px;
-            padding-left: 200px;
-
+            margin-left: 100px;
         }
